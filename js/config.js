@@ -83,20 +83,6 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Joakim Karud, Canals.ogg", name: "Joakim Karud, Canals"},
-	{ogg: "songs/Joakim Karud, Dreams.ogg", name: "Joakim Karud, Dreams"},
-	{ogg: "songs/Joakim Karud, Love Mode.ogg", name: "Joakim Karud, Love Mode"},
-	{ogg: "songs/Andrew Applepie, Berlin.ogg", name: "Andrew Applepie, Berlin"},
-	{ogg: "songs/Floppy Circus, All The Happy Days.ogg", name: "Floppy Circus, All The Happy Days"},
-	{ogg: "songs/Jeff Kaale (X I X X), Crazy About You.ogg", name: "Jeff Kaale (X I X X), Crazy About You"},
-	{ogg: "songs/Jeff Kaale (X I X X), Sunday Afternoon.ogg", name: "Jeff Kaale (X I X X), Sunday Afternoon"},
-	{ogg: "Jeff Kaale, Cookies.ogg", name: "Jeff Kaale, Cookies"},
-	{ogg: "songs/Jeff Kaale, Good Girls Eat.ogg", name: "Jeff Kaale, Good Girls Eat"},
-	{ogg: "songs/Jordan Elgie, Roses.ogg", name: "Jordan Elgie, Roses"},
-	{ogg: "songs/Maxzwell, Baby.ogg", name: "Maxzwell, Baby"},
-	{ogg: "songs/Maxzwell, Ready.ogg", name: "Maxzwell, Ready"},
-	{ogg: "songs/Petit Biscuit, Blue Deep Eyes.ogg", name: "Petit Biscuit, Blue Deep Eyes"}
-	
 ];
 
 /*Random music order?*/
